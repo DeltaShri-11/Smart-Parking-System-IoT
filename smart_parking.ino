@@ -10,7 +10,7 @@ const char* password = "";
 // ===============================
 // ThingSpeak
 // ===============================
-const char* thingSpeakAPIKey = "UUPNT91E6UO0Q9UJ";
+const char* thingSpeakAPIKey = "const char* apiKey = "YOUR_THINGSPEAK_WRITE_API_KEY";";
 
 // ===============================
 // Ultrasonic Sensors
