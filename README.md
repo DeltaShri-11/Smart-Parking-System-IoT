@@ -76,13 +76,22 @@ The system sends four parameters:
 
 ```text
 HC-SR04 Sensor 1 ──┐
-                    │
+                   │
 HC-SR04 Sensor 2 ──┤
-                    ↓
-                  ESP32
-                    ↓
-                Wi-Fi
-                    ↓
-               ThingSpeak
-                    ↓
-        Cloud Monitoring Dashboard
+                   ↓
+                 ESP32
+                   ↓
+                 Wi-Fi
+                   ↓
+              ThingSpeak
+                   ↓
+          Cloud Monitoring
+```
+## 🔗 Project Simulation
+
+The complete circuit simulation is available on Cirkit Designer.
+
+[Open Smart Parking System Simulation](https://app.cirkitdesigner.com/project/38407a15-72d3-4ca6-96a5-0e4581580a25)
+
+
+
